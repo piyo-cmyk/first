@@ -1,0 +1,40 @@
+html {
+  font-size: 10px;
+  font-family: "sans-serif";
+}
+
+h1 {
+  font-size: 60px;
+  font-family: "Monomaniac One";
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #f7f9fa;
+  text-shadow: 3px 3px 1px #272829;
+
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+html {
+    background-color: #f7f9fa;
+    }
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #a7a5b6;
+    padding: 0 20px 20px 20px;
+    border: 5px solid #272829;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+}
